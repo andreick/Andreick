@@ -1,13 +1,13 @@
-<div align="center"><h1>Seja bem-vindo! :door:</h1><br></div>
+<div align="center"><h1>Welcome! :door:</h1></div>
 
-Sinta-se à vontade para dar uma olhada em meus repositórios.  
-Grande parte deles são registros de estudos e trabalhos que desenvolvi na faculdade, além de alguns projetos pessoais.
+Feel free to take a look at my repositories.  
+Most of them are records of studies and works I did in college, as well as some personal projects.
 
-Um dos trabalhos consistia em criar uma aplicação de comunicação em rede, implementando um chat de texto com transmissão de áudio em tempo real.  
-Eu desenvolvi um app para Android utilizando Java e o backend do Firebase: [ChatFirebase-APS-2021](https://github.com/Bot-Mateus/ChatFirebase-APS-2021).
+One of the works consisted of creating a network communication application, implementing a text chat with audio transmission in real time.  
+I developed an Android app with Java and Firebase: [ChatFirebase-APS-2021](https://github.com/Bot-Mateus/ChatFirebase-APS-2021).
 
-Foi justamente esse projeto que despertou o meu interesse pelo mundo mobile e hoje eu estou focado em aprender mais sobre essa tecnologia e me tornar um desenvolvedor Android.  
-Estou mantendo um repositório com todos os projetos Android que venho criando: [learning-path-android](https://github.com/Andreick/learning-path-android).
+It was precisely this project that sparked my interest in the mobile world and today I am focused on learning more about this technology to become an Android developer.  
+I'm keeping a repository with all Android projects I've been creating: [learning-path-android](https://github.com/Andreick/learning-path-android).
 
 <div align="center">
   <br>
@@ -15,8 +15,10 @@ Estou mantendo um repositório com todos os projetos Android que venho criando: 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=6&exclude_repo=cracking-codes,automate-the-boring-stuff&hide=ShaderLab"/>
 </div>
 
-##
+#
 <div align="center">
   <a href="https://www.linkedin.com/in/andreick-gomes-maia-45b9a5204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:andreick.gomes.ismart@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <br><br>
+  <a href="readme/README_pt.md">Portuguese version</a>
 </div>
