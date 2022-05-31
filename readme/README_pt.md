@@ -12,7 +12,7 @@ Estou mantendo um repositório com todos os projetos Android que venho criando: 
 <div align="center">
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreick&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=6&exclude_repo=cracking-codes,automate-the-boring-stuff,autenticacao-biometrica&hide=ShaderLab"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=7&exclude_repo=cracking-codes,automate-the-boring-stuff,autenticacao-biometrica&hide=ShaderLab,HTML,CSS,HLSL,Mathematica,Shell"/>
 </div>
 
 #
