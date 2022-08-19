@@ -6,7 +6,7 @@ Grande parte deles são registros de estudos e trabalhos que desenvolvi na facul
 Um dos trabalhos consistia em criar uma aplicação de comunicação em rede, implementando um chat de texto com transmissão de áudio em tempo real.  
 Eu desenvolvi um app para Android utilizando Java e o backend do Firebase: [ChatFirebase-APS-2021](https://github.com/Bot-Mateus/ChatFirebase-APS-2021).
 
-Foi justamente esse projeto que despertou o meu interesse pelo mundo mobile e hoje eu estou focado em aprender mais sobre essa tecnologia para me tornar um desenvolvedor Android.  
+Foi justamente esse projeto que despertou o meu interesse pelo mundo mobile, então eu comecei a aprender mais sobre aplicativos Android.  
 Estou mantendo um repositório com todos os projetos Android que venho criando: [learning-path-android](https://github.com/Andreick/learning-path-android).
 
 <div align="center">

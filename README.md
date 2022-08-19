@@ -6,7 +6,7 @@ Most of them are records of studies and works I did in college, as well as some 
 One of the works consisted of creating a network communication application, implementing a text chat with audio transmission in real time.  
 I developed an Android app with Java and Firebase: [ChatFirebase-APS-2021](https://github.com/Bot-Mateus/ChatFirebase-APS-2021).
 
-It was precisely this project that sparked my interest in the mobile world and today I am focused on learning more about this technology to become an Android developer.  
+It was precisely this project that sparked my interest in the mobile world, so I started to learn more about Android apps.  
 I'm keeping a repository with all Android projects I've been creating: [learning-path-android](https://github.com/Andreick/learning-path-android).
 
 <div align="center">
