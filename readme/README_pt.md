@@ -7,12 +7,15 @@ Um dos trabalhos consistia em criar uma aplicação de comunicação em rede, im
 Eu desenvolvi um app para Android utilizando Java e o backend do Firebase: [ChatFirebase-APS-2021](https://github.com/Bot-Mateus/ChatFirebase-APS-2021).
 
 Foi justamente esse projeto que despertou o meu interesse pelo mundo mobile, então eu comecei a aprender mais sobre aplicativos Android.  
-Estou mantendo um repositório com todos os projetos Android que venho criando: [learning-path-android](https://github.com/Andreick/learning-path-android).
+Repositório com todos os projetos Android que venho criando: [learning-path-android](https://github.com/Andreick/learning-path-android).
+
+Atualmente estou desenvolvendo o meu TCC cujo tema é um sistema de baixo custo para monitoramento remoto de sinais vitais.
+O projeto utiliza a placa de desenvolvimento ESP32, além de sensores e um medidor de pressão arterial: [ESP32-health-monitor](https://github.com/Andreick/ESP32-health-monitor).
 
 <div align="center">
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreick&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=7&exclude_repo=cracking-codes,automate-the-boring-stuff,autenticacao-biometrica&hide=ShaderLab,HTML,CSS,HLSL,Mathematica,Shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=8&exclude_repo=cracking-codes,automate-the-boring-stuff,autenticacao-biometrica&hide=ShaderLab,HTML,CSS,HLSL,Mathematica,Shell"/>
 </div>
 
 #

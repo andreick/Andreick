@@ -7,12 +7,15 @@ One of the works consisted of creating a network communication application, impl
 I developed an Android app with Java and Firebase: [ChatFirebase-APS-2021](https://github.com/Bot-Mateus/ChatFirebase-APS-2021).
 
 It was precisely this project that sparked my interest in the mobile world, so I started to learn more about Android apps.  
-I'm keeping a repository with all Android projects I've been creating: [learning-path-android](https://github.com/Andreick/learning-path-android).
+Repository with all Android projects I've been creating: [learning-path-android](https://github.com/Andreick/learning-path-android).
+
+I'm currently developing my final paper whose theme is a low-cost system for remote monitoring of vital signs.
+The project uses the ESP32 development board, in addition to sensors and a blood pressure monitor: [ESP32-health-monitor](https://github.com/Andreick/ESP32-health-monitor).
 
 <div align="center">
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreick&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=7&exclude_repo=cracking-codes,automate-the-boring-stuff,autenticacao-biometrica&hide=ShaderLab,HTML,CSS,HLSL,Mathematica,Shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreick&layout=compact&theme=highcontrast&langs_count=8&exclude_repo=cracking-codes,automate-the-boring-stuff,autenticacao-biometrica&hide=ShaderLab,HTML,CSS,HLSL,Mathematica,Shell"/>
 </div>
 
 #
